@@ -6,7 +6,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MaxM-1/tdse-solver.git
+   git clone https://github.com/MaxM-1/TDSE_test.git
    cd tdse-solver
    ```
 
