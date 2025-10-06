@@ -16,7 +16,7 @@ A comprehensive Python package for numerically solving the time-dependent Schrö
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/tdse-solver.git
+git clone https://github.com/MaxM-1/tdse-solver.git
 cd tdse-solver
 pip install -e .
 ```
@@ -115,10 +115,10 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @software{tdse_solver,
-  author = {Your Name},
+  author = {Max S.J. Miller},
   title = {Time-Dependent Schrödinger Equation Solver},
   year = {2025},
-  url = {https://github.com/yourusername/tdse-solver}
+  url = {https://github.com/MaxM-1/tdse-solver}
 }
 ```
 
