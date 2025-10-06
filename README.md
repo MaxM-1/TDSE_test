@@ -118,7 +118,7 @@ If you use this code in your research, please cite:
   author = {Max S.J. Miller},
   title = {Time-Dependent Schrödinger Equation Solver},
   year = {2025},
-  url = {https://github.com/MaxM-1/tdse-solver}
+  url = {https://github.com/MaxM-1/TDSE_test}
 }
 ```
 
