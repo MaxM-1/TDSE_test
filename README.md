@@ -17,7 +17,7 @@ A comprehensive Python package for numerically solving the time-dependent Schrö
 
 ```bash
 git clone https://github.com/MaxM-1/TDSE_test.git
-cd tdse-solver
+cd tdse_solver
 pip install -e .
 ```
 
