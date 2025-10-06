@@ -7,7 +7,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/MaxM-1/TDSE_test.git
-   cd tdse-solver
+   cd tdse_solver
    ```
 
 2. Install in development mode:
