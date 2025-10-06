@@ -6,12 +6,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="tdse-solver",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Max S.J. Miller",
+    author_email="max.sj.miller@gmail.com",
     description="A Python package for solving the time-dependent Schrödinger equation",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/tdse-solver",
+    url="https://github.com/MaxM-1/tdse-solver",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
